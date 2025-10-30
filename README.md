@@ -23,7 +23,7 @@ ML_Visualization_Dashboard/
 ├── app.py                         # Main Streamlit application
 │
 ├── data/
-│   └── dataset.csv                 # Your dataset for visualization
+│   └── dataset.csv                
 │
 ├── visuals/
 │   ├── bar_chart.py
@@ -37,9 +37,9 @@ ML_Visualization_Dashboard/
 │   ├── area_chart.py
 │   └── correlation_chart.py
 │
-├── requirements.txt               # Python dependencies
+├── requirements.txt               
 │
-└── README.md                      # Project documentation
+└── README.md                      
 
 
 Installations:
